@@ -8,8 +8,8 @@ abstract: >
   resizing, copy-paste across frames, frame rejection, progress persistence,
   and direct frame navigation.
 authors:
-  - family-names: Mendes
-    given-names: Mauro J. R.
+  - family-names: Mello Junior
+    given-names: Mauro Mendes
     email: maurojrmendes@gmail.com
 repository-code: "https://github.com/mauro-mendes/yolo-annotation-reviewer"
 license: MIT
